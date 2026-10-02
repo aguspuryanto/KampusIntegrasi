@@ -1,0 +1,6 @@
+{
+  "name": "SIAKAD Prima - Sistem Informasi Akademik Terpadu",
+  "description": "Sistem Informasi Akademik Kampus Terpadu: Akademik & KRS, Keuangan & Tagihan, Siakad AI (Gemini & DeepSeek), Helpdesk, e-Lab, SDM Kepegawaian, LMS & CBT Anti-Cheat, Neo Feeder PDDikti, Persuratan, Magang MBKM, Skripsi & SDLC Lifecycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
